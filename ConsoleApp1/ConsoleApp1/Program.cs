@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace محاسبات_ریاضی_با_سیشارپ
+namespace فرمول های دایره
 {
     internal class Program
     {
